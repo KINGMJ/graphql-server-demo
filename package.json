@@ -1,0 +1,22 @@
+{
+  "name": "graphql-server-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "apollo-server-express": "^2.9.16",
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^14.5.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "node demo2.js"
+  },
+  "keywords": [
+    "graphql",
+    "express"
+  ],
+  "author": "jerry.mei",
+  "license": "ISC"
+}
